@@ -11,6 +11,10 @@ seaborn = "*"
 ipykernel = "*"
 openpyxl = "*"
 scikit-learn = "*"
+lxml = "*"
+plotly-express = "*"
+nbformat = "*"
+kaleido = "*"
 
 [dev-packages]
 
